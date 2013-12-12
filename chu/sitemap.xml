@@ -1,0 +1,1534 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="http://www.cnhacker.org/wp-content/plugins/google-sitemap-generator/sitemap.xsl"?><!-- generator="wordpress/3.7.1" -->
+<!-- sitemap-generator-url="http://www.arnebrachhold.de" sitemap-generator-version="3.4" -->
+<!-- generated-on="12/12/2013 pm3:07" -->
+<!-- Debug: Total comment count: 6 -->
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">	<url>
+		<loc>http://www.cnhacker.org/</loc>
+		<lastmod>2013-12-12T15:06:23+00:00</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>1.0</priority>
+	</url>
+<!-- Debug: Start Postings -->
+<!-- Debug: Priority report of postID 2857: Comments: 0 of 6 = 0 points -->
+	<url>
+		<loc>http://www.cnhacker.org/posts/2857.html</loc>
+		<lastmod>2013-12-12T15:06:23+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 2849: Comments: 0 of 6 = 0 points -->
+	<url>
+		<loc>http://www.cnhacker.org/posts/2849.html</loc>
+		<lastmod>2013-12-12T14:40:15+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+	<url>
+		<loc>http://www.cnhacker.org/%e5%82%ac%e4%b9%b3%e7%b4%a0</loc>
+		<lastmod>2013-12-12T13:26:31+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+<!-- Debug: Priority report of postID 2838: Comments: 0 of 6 = 0 points -->
+	<url>
+		<loc>http://www.cnhacker.org/posts/2838.html</loc>
+		<lastmod>2013-12-12T07:44:13+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 2826: Comments: 0 of 6 = 0 points -->
+	<url>
+		<loc>http://www.cnhacker.org/posts/2826.html</loc>
+		<lastmod>2013-12-12T07:23:48+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 2820: Comments: 0 of 6 = 0 points -->
+	<url>
+		<loc>http://www.cnhacker.org/posts/2820.html</loc>
+		<lastmod>2013-12-11T13:09:46+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 2816: Comments: 0 of 6 = 0 points -->
+	<url>
+		<loc>http://www.cnhacker.org/posts/2816.html</loc>
+		<lastmod>2013-12-11T12:43:39+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 2811: Comments: 0 of 6 = 0 points -->
+	<url>
+		<loc>http://www.cnhacker.org/posts/2811.html</loc>
+		<lastmod>2013-12-11T12:05:45+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 2807: Comments: 0 of 6 = 0 points -->
+	<url>
+		<loc>http://www.cnhacker.org/posts/2807.html</loc>
+		<lastmod>2013-12-10T14:22:15+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 2778: Comments: 0 of 6 = 0 points -->
+	<url>
+		<loc>http://www.cnhacker.org/posts/2778.html</loc>
+		<lastmod>2013-12-09T06:29:19+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 2748: Comments: 0 of 6 = 0 points -->
+	<url>
+		<loc>http://www.cnhacker.org/posts/2748.html</loc>
+		<lastmod>2013-12-08T23:26:06+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 2752: Comments: 0 of 6 = 0 points -->
+	<url>
+		<loc>http://www.cnhacker.org/posts/2752.html</loc>
+		<lastmod>2013-12-08T03:20:31+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 2742: Comments: 0 of 6 = 0 points -->
+	<url>
+		<loc>http://www.cnhacker.org/posts/2742.html</loc>
+		<lastmod>2013-12-07T17:15:41+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 2735: Comments: 0 of 6 = 0 points -->
+	<url>
+		<loc>http://www.cnhacker.org/posts/2735.html</loc>
+		<lastmod>2013-12-07T16:55:38+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 2724: Comments: 0 of 6 = 0 points -->
+	<url>
+		<loc>http://www.cnhacker.org/posts/2724.html</loc>
+		<lastmod>2013-12-07T07:41:37+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 2258: Comments: 0 of 6 = 0 points -->
+	<url>
+		<loc>http://www.cnhacker.org/posts/2258.html</loc>
+		<lastmod>2013-12-05T07:54:52+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 2252: Comments: 0 of 6 = 0 points -->
+	<url>
+		<loc>http://www.cnhacker.org/posts/2252.html</loc>
+		<lastmod>2013-12-05T07:31:48+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 2244: Comments: 0 of 6 = 0 points -->
+	<url>
+		<loc>http://www.cnhacker.org/posts/2244.html</loc>
+		<lastmod>2013-12-05T04:35:13+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 2235: Comments: 0 of 6 = 0 points -->
+	<url>
+		<loc>http://www.cnhacker.org/posts/2235.html</loc>
+		<lastmod>2013-12-04T13:36:35+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 2185: Comments: 0 of 6 = 0 points -->
+	<url>
+		<loc>http://www.cnhacker.org/posts/2185.html</loc>
+		<lastmod>2013-12-03T18:27:21+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 2179: Comments: 0 of 6 = 0 points -->
+	<url>
+		<loc>http://www.cnhacker.org/posts/2179.html</loc>
+		<lastmod>2013-12-03T16:26:49+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 2166: Comments: 0 of 6 = 0 points -->
+	<url>
+		<loc>http://www.cnhacker.org/posts/2166.html</loc>
+		<lastmod>2013-12-03T16:02:21+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 2018: Comments: 0 of 6 = 0 points -->
+	<url>
+		<loc>http://www.cnhacker.org/posts/2018.html</loc>
+		<lastmod>2013-12-02T13:26:43+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 2015: Comments: 0 of 6 = 0 points -->
+	<url>
+		<loc>http://www.cnhacker.org/posts/2015.html</loc>
+		<lastmod>2013-12-02T13:09:50+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 2008: Comments: 0 of 6 = 0 points -->
+	<url>
+		<loc>http://www.cnhacker.org/posts/2008.html</loc>
+		<lastmod>2013-12-01T06:41:56+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 2004: Comments: 0 of 6 = 0 points -->
+	<url>
+		<loc>http://www.cnhacker.org/posts/2004.html</loc>
+		<lastmod>2013-11-30T16:06:19+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1997: Comments: 0 of 6 = 0 points -->
+	<url>
+		<loc>http://www.cnhacker.org/posts/1997.html</loc>
+		<lastmod>2013-11-30T12:19:11+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1988: Comments: 0 of 6 = 0 points -->
+	<url>
+		<loc>http://www.cnhacker.org/posts/1988.html</loc>
+		<lastmod>2013-11-28T02:01:06+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1985: Comments: 0 of 6 = 0 points -->
+	<url>
+		<loc>http://www.cnhacker.org/posts/1985.html</loc>
+		<lastmod>2013-11-27T14:50:50+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1981: Comments: 0 of 6 = 0 points -->
+	<url>
+		<loc>http://www.cnhacker.org/posts/1981.html</loc>
+		<lastmod>2013-11-26T01:09:03+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1978: Comments: 0 of 6 = 0 points -->
+	<url>
+		<loc>http://www.cnhacker.org/posts/1978.html</loc>
+		<lastmod>2013-11-26T00:40:52+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1974: Comments: 0 of 6 = 0 points -->
+	<url>
+		<loc>http://www.cnhacker.org/posts/1974.html</loc>
+		<lastmod>2013-11-26T00:13:16+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1972: Comments: 0 of 6 = 0 points -->
+	<url>
+		<loc>http://www.cnhacker.org/posts/1972.html</loc>
+		<lastmod>2013-11-25T03:12:50+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1969: Comments: 0 of 6 = 0 points -->
+	<url>
+		<loc>http://www.cnhacker.org/posts/1969.html</loc>
+		<lastmod>2013-11-25T03:04:59+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+	<url>
+		<loc>http://www.cnhacker.org/yaoqing</loc>
+		<lastmod>2013-11-24T06:06:43+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+<!-- Debug: Priority report of postID 1936: Comments: 0 of 6 = 0 points -->
+	<url>
+		<loc>http://www.cnhacker.org/posts/1936.html</loc>
+		<lastmod>2013-11-24T03:47:27+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+	<url>
+		<loc>http://www.cnhacker.org/webapp</loc>
+		<lastmod>2013-11-24T02:51:28+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+<!-- Debug: Priority report of postID 1921: Comments: 0 of 6 = 0 points -->
+	<url>
+		<loc>http://www.cnhacker.org/posts/1921.html</loc>
+		<lastmod>2013-11-23T15:44:50+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1918: Comments: 0 of 6 = 0 points -->
+	<url>
+		<loc>http://www.cnhacker.org/posts/1918.html</loc>
+		<lastmod>2013-11-23T15:30:31+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1908: Comments: 0 of 6 = 0 points -->
+	<url>
+		<loc>http://www.cnhacker.org/posts/1908.html</loc>
+		<lastmod>2013-11-23T11:17:26+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1899: Comments: 0 of 6 = 0 points -->
+	<url>
+		<loc>http://www.cnhacker.org/posts/1899.html</loc>
+		<lastmod>2013-11-22T02:37:54+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1889: Comments: 0 of 6 = 0 points -->
+	<url>
+		<loc>http://www.cnhacker.org/posts/1889.html</loc>
+		<lastmod>2013-11-21T11:45:34+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1882: Comments: 0 of 6 = 0 points -->
+	<url>
+		<loc>http://www.cnhacker.org/posts/1882.html</loc>
+		<lastmod>2013-11-20T16:48:34+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1878: Comments: 0 of 6 = 0 points -->
+	<url>
+		<loc>http://www.cnhacker.org/posts/1878.html</loc>
+		<lastmod>2013-11-20T02:26:11+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1875: Comments: 0 of 6 = 0 points -->
+	<url>
+		<loc>http://www.cnhacker.org/posts/1875.html</loc>
+		<lastmod>2013-11-20T02:06:10+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1871: Comments: 0 of 6 = 0 points -->
+	<url>
+		<loc>http://www.cnhacker.org/posts/1871.html</loc>
+		<lastmod>2013-11-20T01:53:48+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1868: Comments: 0 of 6 = 0 points -->
+	<url>
+		<loc>http://www.cnhacker.org/posts/1868.html</loc>
+		<lastmod>2013-11-20T01:45:57+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1866: Comments: 0 of 6 = 0 points -->
+	<url>
+		<loc>http://www.cnhacker.org/posts/1866.html</loc>
+		<lastmod>2013-11-19T15:45:50+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1862: Comments: 0 of 6 = 0 points -->
+	<url>
+		<loc>http://www.cnhacker.org/posts/1862.html</loc>
+		<lastmod>2013-11-19T15:37:29+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1851: Comments: 0 of 6 = 0 points -->
+	<url>
+		<loc>http://www.cnhacker.org/posts/1851.html</loc>
+		<lastmod>2013-11-19T14:54:36+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1839: Comments: 0 of 6 = 0 points -->
+	<url>
+		<loc>http://www.cnhacker.org/posts/1839.html</loc>
+		<lastmod>2013-11-19T12:26:31+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+	<url>
+		<loc>http://www.cnhacker.org/ly</loc>
+		<lastmod>2013-11-19T08:22:53+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+<!-- Debug: Priority report of postID 1790: Comments: 0 of 6 = 0 points -->
+	<url>
+		<loc>http://www.cnhacker.org/posts/1790.html</loc>
+		<lastmod>2013-11-09T15:41:41+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1786: Comments: 0 of 6 = 0 points -->
+	<url>
+		<loc>http://www.cnhacker.org/posts/1786.html</loc>
+		<lastmod>2013-11-09T12:41:58+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1782: Comments: 0 of 6 = 0 points -->
+	<url>
+		<loc>http://www.cnhacker.org/posts/1782.html</loc>
+		<lastmod>2013-11-09T12:32:52+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1775: Comments: 0 of 6 = 0 points -->
+	<url>
+		<loc>http://www.cnhacker.org/posts/1775.html</loc>
+		<lastmod>2013-11-08T12:48:40+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1767: Comments: 0 of 6 = 0 points -->
+	<url>
+		<loc>http://www.cnhacker.org/posts/1767.html</loc>
+		<lastmod>2013-11-08T06:52:30+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1762: Comments: 0 of 6 = 0 points -->
+	<url>
+		<loc>http://www.cnhacker.org/posts/1762.html</loc>
+		<lastmod>2013-11-08T06:40:47+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1757: Comments: 0 of 6 = 0 points -->
+	<url>
+		<loc>http://www.cnhacker.org/posts/1757.html</loc>
+		<lastmod>2013-11-04T09:09:58+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1753: Comments: 0 of 6 = 0 points -->
+	<url>
+		<loc>http://www.cnhacker.org/posts/1753.html</loc>
+		<lastmod>2013-11-04T08:55:36+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1748: Comments: 0 of 6 = 0 points -->
+	<url>
+		<loc>http://www.cnhacker.org/posts/1748.html</loc>
+		<lastmod>2013-11-04T07:53:09+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1743: Comments: 0 of 6 = 0 points -->
+	<url>
+		<loc>http://www.cnhacker.org/posts/1743.html</loc>
+		<lastmod>2013-11-04T07:30:45+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1737: Comments: 0 of 6 = 0 points -->
+	<url>
+		<loc>http://www.cnhacker.org/posts/1737.html</loc>
+		<lastmod>2013-11-04T03:19:51+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1731: Comments: 0 of 6 = 0 points -->
+	<url>
+		<loc>http://www.cnhacker.org/posts/1731.html</loc>
+		<lastmod>2013-11-04T03:06:16+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1724: Comments: 0 of 6 = 0 points -->
+	<url>
+		<loc>http://www.cnhacker.org/posts/1724.html</loc>
+		<lastmod>2013-11-04T02:58:44+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1721: Comments: 0 of 6 = 0 points -->
+	<url>
+		<loc>http://www.cnhacker.org/posts/1721.html</loc>
+		<lastmod>2013-11-04T02:54:08+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1713: Comments: 0 of 6 = 0 points -->
+	<url>
+		<loc>http://www.cnhacker.org/posts/1713.html</loc>
+		<lastmod>2013-11-04T00:38:25+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1709: Comments: 0 of 6 = 0 points -->
+	<url>
+		<loc>http://www.cnhacker.org/posts/1709.html</loc>
+		<lastmod>2013-11-04T00:22:05+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1565: Comments: 0 of 6 = 0 points -->
+	<url>
+		<loc>http://www.cnhacker.org/posts/1565.html</loc>
+		<lastmod>2013-11-03T09:25:27+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1687: Comments: 0 of 6 = 0 points -->
+	<url>
+		<loc>http://www.cnhacker.org/posts/1687.html</loc>
+		<lastmod>2013-10-25T12:30:36+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1686: Comments: 0 of 6 = 0 points -->
+	<url>
+		<loc>http://www.cnhacker.org/posts/1686.html</loc>
+		<lastmod>2013-10-25T12:16:55+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1540: Comments: 0 of 6 = 0 points -->
+	<url>
+		<loc>http://www.cnhacker.org/posts/1540.html</loc>
+		<lastmod>2013-10-20T14:23:06+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1537: Comments: 0 of 6 = 0 points -->
+	<url>
+		<loc>http://www.cnhacker.org/posts/1537.html</loc>
+		<lastmod>2013-10-20T12:45:15+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1535: Comments: 0 of 6 = 0 points -->
+	<url>
+		<loc>http://www.cnhacker.org/posts/1535.html</loc>
+		<lastmod>2013-10-19T12:17:09+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1533: Comments: 0 of 6 = 0 points -->
+	<url>
+		<loc>http://www.cnhacker.org/posts/1533.html</loc>
+		<lastmod>2013-10-19T11:43:21+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1530: Comments: 0 of 6 = 0 points -->
+	<url>
+		<loc>http://www.cnhacker.org/posts/1530.html</loc>
+		<lastmod>2013-10-19T09:42:35+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1526: Comments: 0 of 6 = 0 points -->
+	<url>
+		<loc>http://www.cnhacker.org/posts/1526.html</loc>
+		<lastmod>2013-10-19T09:15:57+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1515: Comments: 0 of 6 = 0 points -->
+	<url>
+		<loc>http://www.cnhacker.org/posts/1515.html</loc>
+		<lastmod>2013-10-15T03:02:10+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1510: Comments: 0 of 6 = 0 points -->
+	<url>
+		<loc>http://www.cnhacker.org/posts/1510.html</loc>
+		<lastmod>2013-10-15T02:30:46+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1499: Comments: 0 of 6 = 0 points -->
+	<url>
+		<loc>http://www.cnhacker.org/posts/1499.html</loc>
+		<lastmod>2013-10-15T02:11:32+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1485: Comments: 0 of 6 = 0 points -->
+	<url>
+		<loc>http://www.cnhacker.org/posts/1485.html</loc>
+		<lastmod>2013-10-02T02:34:31+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1481: Comments: 1 of 6 = 0.2 points -->
+	<url>
+		<loc>http://www.cnhacker.org/posts/1481.html</loc>
+		<lastmod>2013-10-02T02:15:52+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1444: Comments: 0 of 6 = 0 points -->
+	<url>
+		<loc>http://www.cnhacker.org/posts/1444.html</loc>
+		<lastmod>2013-09-28T16:49:14+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1437: Comments: 1 of 6 = 0.2 points -->
+	<url>
+		<loc>http://www.cnhacker.org/posts/1437.html</loc>
+		<lastmod>2013-09-28T16:13:29+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1430: Comments: 0 of 6 = 0 points -->
+	<url>
+		<loc>http://www.cnhacker.org/posts/1430.html</loc>
+		<lastmod>2013-09-27T11:17:16+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1417: Comments: 0 of 6 = 0 points -->
+	<url>
+		<loc>http://www.cnhacker.org/posts/1417.html</loc>
+		<lastmod>2013-09-25T10:19:37+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1415: Comments: 0 of 6 = 0 points -->
+	<url>
+		<loc>http://www.cnhacker.org/posts/1415.html</loc>
+		<lastmod>2013-09-25T09:52:42+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1406: Comments: 0 of 6 = 0 points -->
+	<url>
+		<loc>http://www.cnhacker.org/posts/1406.html</loc>
+		<lastmod>2013-09-25T05:46:09+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1403: Comments: 0 of 6 = 0 points -->
+	<url>
+		<loc>http://www.cnhacker.org/posts/1403.html</loc>
+		<lastmod>2013-09-23T14:20:53+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1400: Comments: 0 of 6 = 0 points -->
+	<url>
+		<loc>http://www.cnhacker.org/posts/1400.html</loc>
+		<lastmod>2013-09-23T12:22:18+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1398: Comments: 1 of 6 = 0.2 points -->
+	<url>
+		<loc>http://www.cnhacker.org/posts/1398.html</loc>
+		<lastmod>2013-09-23T12:13:45+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+	<url>
+		<loc>http://www.cnhacker.org/heikediguo</loc>
+		<lastmod>2013-09-22T15:37:03+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+<!-- Debug: Priority report of postID 1364: Comments: 0 of 6 = 0 points -->
+	<url>
+		<loc>http://www.cnhacker.org/posts/1364.html</loc>
+		<lastmod>2013-09-22T10:51:31+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1360: Comments: 0 of 6 = 0 points -->
+	<url>
+		<loc>http://www.cnhacker.org/posts/1360.html</loc>
+		<lastmod>2013-09-21T14:24:16+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1286: Comments: 0 of 6 = 0 points -->
+	<url>
+		<loc>http://www.cnhacker.org/posts/1286.html</loc>
+		<lastmod>2013-09-19T18:31:24+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1685: Comments: 0 of 6 = 0 points -->
+	<url>
+		<loc>http://www.cnhacker.org/posts/1685.html</loc>
+		<lastmod>2013-09-19T18:03:16+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1240: Comments: 0 of 6 = 0 points -->
+	<url>
+		<loc>http://www.cnhacker.org/posts/1240.html</loc>
+		<lastmod>2013-09-19T00:53:41+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1236: Comments: 0 of 6 = 0 points -->
+	<url>
+		<loc>http://www.cnhacker.org/posts/1236.html</loc>
+		<lastmod>2013-09-19T00:46:03+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1227: Comments: 0 of 6 = 0 points -->
+	<url>
+		<loc>http://www.cnhacker.org/posts/1227.html</loc>
+		<lastmod>2013-09-18T03:01:04+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1198: Comments: 0 of 6 = 0 points -->
+	<url>
+		<loc>http://www.cnhacker.org/posts/1198.html</loc>
+		<lastmod>2013-09-15T13:01:44+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1196: Comments: 1 of 6 = 0.2 points -->
+	<url>
+		<loc>http://www.cnhacker.org/posts/1196.html</loc>
+		<lastmod>2013-09-15T12:36:18+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1684: Comments: 0 of 6 = 0 points -->
+	<url>
+		<loc>http://www.cnhacker.org/posts/1684.html</loc>
+		<lastmod>2013-09-10T14:33:58+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1182: Comments: 0 of 6 = 0 points -->
+	<url>
+		<loc>http://www.cnhacker.org/posts/1182.html</loc>
+		<lastmod>2013-09-04T11:45:01+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1178: Comments: 0 of 6 = 0 points -->
+	<url>
+		<loc>http://www.cnhacker.org/posts/1178.html</loc>
+		<lastmod>2013-09-04T11:33:17+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1174: Comments: 0 of 6 = 0 points -->
+	<url>
+		<loc>http://www.cnhacker.org/posts/1174.html</loc>
+		<lastmod>2013-09-03T10:45:15+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1164: Comments: 0 of 6 = 0 points -->
+	<url>
+		<loc>http://www.cnhacker.org/posts/1164.html</loc>
+		<lastmod>2013-09-01T01:17:56+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1159: Comments: 0 of 6 = 0 points -->
+	<url>
+		<loc>http://www.cnhacker.org/posts/1159.html</loc>
+		<lastmod>2013-09-01T00:40:12+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1151: Comments: 0 of 6 = 0 points -->
+	<url>
+		<loc>http://www.cnhacker.org/posts/1151.html</loc>
+		<lastmod>2013-08-29T15:12:29+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1134: Comments: 0 of 6 = 0 points -->
+	<url>
+		<loc>http://www.cnhacker.org/posts/1134.html</loc>
+		<lastmod>2013-08-26T02:51:06+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1131: Comments: 0 of 6 = 0 points -->
+	<url>
+		<loc>http://www.cnhacker.org/posts/1131.html</loc>
+		<lastmod>2013-08-26T02:41:30+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1129: Comments: 0 of 6 = 0 points -->
+	<url>
+		<loc>http://www.cnhacker.org/posts/1129.html</loc>
+		<lastmod>2013-08-26T02:36:59+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1121: Comments: 0 of 6 = 0 points -->
+	<url>
+		<loc>http://www.cnhacker.org/posts/1121.html</loc>
+		<lastmod>2013-08-24T02:01:04+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1115: Comments: 0 of 6 = 0 points -->
+	<url>
+		<loc>http://www.cnhacker.org/posts/1115.html</loc>
+		<lastmod>2013-08-23T13:57:35+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1098: Comments: 0 of 6 = 0 points -->
+	<url>
+		<loc>http://www.cnhacker.org/posts/1098.html</loc>
+		<lastmod>2013-08-20T15:08:23+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1092: Comments: 0 of 6 = 0 points -->
+	<url>
+		<loc>http://www.cnhacker.org/posts/1092.html</loc>
+		<lastmod>2013-08-16T16:36:03+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1089: Comments: 0 of 6 = 0 points -->
+	<url>
+		<loc>http://www.cnhacker.org/posts/1089.html</loc>
+		<lastmod>2013-08-16T16:29:56+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1083: Comments: 1 of 6 = 0.2 points -->
+	<url>
+		<loc>http://www.cnhacker.org/posts/1083.html</loc>
+		<lastmod>2013-08-14T14:20:35+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1078: Comments: 0 of 6 = 0 points -->
+	<url>
+		<loc>http://www.cnhacker.org/posts/1078.html</loc>
+		<lastmod>2013-08-12T12:42:58+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1067: Comments: 0 of 6 = 0 points -->
+	<url>
+		<loc>http://www.cnhacker.org/posts/1067.html</loc>
+		<lastmod>2013-08-09T01:12:36+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 962: Comments: 0 of 6 = 0 points -->
+	<url>
+		<loc>http://www.cnhacker.org/posts/962.html</loc>
+		<lastmod>2013-08-04T03:27:06+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 948: Comments: 0 of 6 = 0 points -->
+	<url>
+		<loc>http://www.cnhacker.org/posts/948.html</loc>
+		<lastmod>2013-08-03T14:12:44+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 945: Comments: 0 of 6 = 0 points -->
+	<url>
+		<loc>http://www.cnhacker.org/posts/945.html</loc>
+		<lastmod>2013-08-03T14:02:12+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 942: Comments: 0 of 6 = 0 points -->
+	<url>
+		<loc>http://www.cnhacker.org/posts/942.html</loc>
+		<lastmod>2013-08-03T13:40:39+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 938: Comments: 0 of 6 = 0 points -->
+	<url>
+		<loc>http://www.cnhacker.org/posts/938.html</loc>
+		<lastmod>2013-08-02T05:04:18+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 932: Comments: 0 of 6 = 0 points -->
+	<url>
+		<loc>http://www.cnhacker.org/posts/932.html</loc>
+		<lastmod>2013-07-30T13:35:37+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 931: Comments: 0 of 6 = 0 points -->
+	<url>
+		<loc>http://www.cnhacker.org/posts/931.html</loc>
+		<lastmod>2013-07-29T16:24:25+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 927: Comments: 0 of 6 = 0 points -->
+	<url>
+		<loc>http://www.cnhacker.org/posts/927.html</loc>
+		<lastmod>2013-07-29T04:24:41+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 925: Comments: 0 of 6 = 0 points -->
+	<url>
+		<loc>http://www.cnhacker.org/posts/925.html</loc>
+		<lastmod>2013-07-28T13:30:51+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 921: Comments: 0 of 6 = 0 points -->
+	<url>
+		<loc>http://www.cnhacker.org/posts/921.html</loc>
+		<lastmod>2013-07-26T01:40:00+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 913: Comments: 0 of 6 = 0 points -->
+	<url>
+		<loc>http://www.cnhacker.org/posts/913.html</loc>
+		<lastmod>2013-07-22T13:06:00+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 909: Comments: 0 of 6 = 0 points -->
+	<url>
+		<loc>http://www.cnhacker.org/posts/909.html</loc>
+		<lastmod>2013-07-17T13:43:39+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 905: Comments: 0 of 6 = 0 points -->
+	<url>
+		<loc>http://www.cnhacker.org/posts/905.html</loc>
+		<lastmod>2013-07-17T05:51:35+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 901: Comments: 0 of 6 = 0 points -->
+	<url>
+		<loc>http://www.cnhacker.org/posts/901.html</loc>
+		<lastmod>2013-07-17T05:29:17+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 891: Comments: 0 of 6 = 0 points -->
+	<url>
+		<loc>http://www.cnhacker.org/posts/891.html</loc>
+		<lastmod>2013-07-11T16:43:58+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 887: Comments: 0 of 6 = 0 points -->
+	<url>
+		<loc>http://www.cnhacker.org/posts/887.html</loc>
+		<lastmod>2013-07-11T16:20:40+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 882: Comments: 0 of 6 = 0 points -->
+	<url>
+		<loc>http://www.cnhacker.org/posts/882.html</loc>
+		<lastmod>2013-07-11T16:16:44+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 879: Comments: 0 of 6 = 0 points -->
+	<url>
+		<loc>http://www.cnhacker.org/posts/879.html</loc>
+		<lastmod>2013-07-11T16:07:48+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 873: Comments: 0 of 6 = 0 points -->
+	<url>
+		<loc>http://www.cnhacker.org/posts/873.html</loc>
+		<lastmod>2013-07-11T15:41:54+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 866: Comments: 0 of 6 = 0 points -->
+	<url>
+		<loc>http://www.cnhacker.org/posts/866.html</loc>
+		<lastmod>2013-07-07T12:59:03+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 861: Comments: 0 of 6 = 0 points -->
+	<url>
+		<loc>http://www.cnhacker.org/posts/861.html</loc>
+		<lastmod>2013-07-06T15:04:04+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 853: Comments: 0 of 6 = 0 points -->
+	<url>
+		<loc>http://www.cnhacker.org/posts/853.html</loc>
+		<lastmod>2013-07-06T10:42:12+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 850: Comments: 0 of 6 = 0 points -->
+	<url>
+		<loc>http://www.cnhacker.org/posts/850.html</loc>
+		<lastmod>2013-07-06T10:30:14+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 846: Comments: 0 of 6 = 0 points -->
+	<url>
+		<loc>http://www.cnhacker.org/posts/846.html</loc>
+		<lastmod>2013-07-05T16:54:34+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 843: Comments: 0 of 6 = 0 points -->
+	<url>
+		<loc>http://www.cnhacker.org/posts/843.html</loc>
+		<lastmod>2013-07-05T16:45:58+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 840: Comments: 0 of 6 = 0 points -->
+	<url>
+		<loc>http://www.cnhacker.org/posts/840.html</loc>
+		<lastmod>2013-07-05T16:28:15+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 819: Comments: 0 of 6 = 0 points -->
+	<url>
+		<loc>http://www.cnhacker.org/posts/819.html</loc>
+		<lastmod>2013-07-01T17:03:43+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 809: Comments: 0 of 6 = 0 points -->
+	<url>
+		<loc>http://www.cnhacker.org/posts/809.html</loc>
+		<lastmod>2013-06-30T01:41:47+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 783: Comments: 0 of 6 = 0 points -->
+	<url>
+		<loc>http://www.cnhacker.org/posts/783.html</loc>
+		<lastmod>2013-06-29T09:14:18+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 779: Comments: 0 of 6 = 0 points -->
+	<url>
+		<loc>http://www.cnhacker.org/posts/779.html</loc>
+		<lastmod>2013-06-29T09:09:54+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 775: Comments: 0 of 6 = 0 points -->
+	<url>
+		<loc>http://www.cnhacker.org/posts/775.html</loc>
+		<lastmod>2013-06-29T08:44:34+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 768: Comments: 0 of 6 = 0 points -->
+	<url>
+		<loc>http://www.cnhacker.org/posts/768.html</loc>
+		<lastmod>2013-06-29T00:58:39+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 759: Comments: 0 of 6 = 0 points -->
+	<url>
+		<loc>http://www.cnhacker.org/posts/759.html</loc>
+		<lastmod>2013-06-29T00:44:22+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 755: Comments: 0 of 6 = 0 points -->
+	<url>
+		<loc>http://www.cnhacker.org/posts/755.html</loc>
+		<lastmod>2013-06-29T00:27:59+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 743: Comments: 0 of 6 = 0 points -->
+	<url>
+		<loc>http://www.cnhacker.org/posts/743.html</loc>
+		<lastmod>2013-06-28T17:00:18+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 737: Comments: 0 of 6 = 0 points -->
+	<url>
+		<loc>http://www.cnhacker.org/posts/737.html</loc>
+		<lastmod>2013-06-26T14:30:38+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 728: Comments: 0 of 6 = 0 points -->
+	<url>
+		<loc>http://www.cnhacker.org/posts/728.html</loc>
+		<lastmod>2013-06-25T14:59:31+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 725: Comments: 0 of 6 = 0 points -->
+	<url>
+		<loc>http://www.cnhacker.org/posts/725.html</loc>
+		<lastmod>2013-06-25T14:46:27+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 718: Comments: 0 of 6 = 0 points -->
+	<url>
+		<loc>http://www.cnhacker.org/posts/718.html</loc>
+		<lastmod>2013-06-25T14:35:44+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 710: Comments: 0 of 6 = 0 points -->
+	<url>
+		<loc>http://www.cnhacker.org/posts/710.html</loc>
+		<lastmod>2013-06-25T13:57:27+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 703: Comments: 0 of 6 = 0 points -->
+	<url>
+		<loc>http://www.cnhacker.org/posts/703.html</loc>
+		<lastmod>2013-06-23T01:34:34+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 700: Comments: 0 of 6 = 0 points -->
+	<url>
+		<loc>http://www.cnhacker.org/posts/700.html</loc>
+		<lastmod>2013-06-23T01:15:00+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 691: Comments: 0 of 6 = 0 points -->
+	<url>
+		<loc>http://www.cnhacker.org/posts/691.html</loc>
+		<lastmod>2013-06-20T13:15:44+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 687: Comments: 0 of 6 = 0 points -->
+	<url>
+		<loc>http://www.cnhacker.org/posts/687.html</loc>
+		<lastmod>2013-06-20T12:48:29+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 675: Comments: 0 of 6 = 0 points -->
+	<url>
+		<loc>http://www.cnhacker.org/posts/675.html</loc>
+		<lastmod>2013-06-18T12:18:34+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 667: Comments: 0 of 6 = 0 points -->
+	<url>
+		<loc>http://www.cnhacker.org/posts/667.html</loc>
+		<lastmod>2013-06-18T06:22:54+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 650: Comments: 0 of 6 = 0 points -->
+	<url>
+		<loc>http://www.cnhacker.org/posts/650.html</loc>
+		<lastmod>2013-06-17T16:04:02+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 642: Comments: 0 of 6 = 0 points -->
+	<url>
+		<loc>http://www.cnhacker.org/posts/642.html</loc>
+		<lastmod>2013-06-17T15:25:42+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 639: Comments: 0 of 6 = 0 points -->
+	<url>
+		<loc>http://www.cnhacker.org/posts/639.html</loc>
+		<lastmod>2013-06-17T14:46:22+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 636: Comments: 0 of 6 = 0 points -->
+	<url>
+		<loc>http://www.cnhacker.org/posts/636.html</loc>
+		<lastmod>2013-06-17T09:50:42+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 631: Comments: 0 of 6 = 0 points -->
+	<url>
+		<loc>http://www.cnhacker.org/posts/631.html</loc>
+		<lastmod>2013-06-16T13:54:37+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1683: Comments: 0 of 6 = 0 points -->
+	<url>
+		<loc>http://www.cnhacker.org/posts/1683.html</loc>
+		<lastmod>2013-06-16T13:46:57+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 606: Comments: 0 of 6 = 0 points -->
+	<url>
+		<loc>http://www.cnhacker.org/posts/606.html</loc>
+		<lastmod>2013-06-16T12:25:53+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 599: Comments: 0 of 6 = 0 points -->
+	<url>
+		<loc>http://www.cnhacker.org/posts/599.html</loc>
+		<lastmod>2013-06-16T11:59:00+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 582: Comments: 0 of 6 = 0 points -->
+	<url>
+		<loc>http://www.cnhacker.org/posts/582.html</loc>
+		<lastmod>2013-06-16T04:40:05+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 576: Comments: 0 of 6 = 0 points -->
+	<url>
+		<loc>http://www.cnhacker.org/posts/576.html</loc>
+		<lastmod>2013-06-16T01:37:15+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 443: Comments: 0 of 6 = 0 points -->
+	<url>
+		<loc>http://www.cnhacker.org/posts/443.html</loc>
+		<lastmod>2013-05-30T14:06:22+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 435: Comments: 0 of 6 = 0 points -->
+	<url>
+		<loc>http://www.cnhacker.org/posts/435.html</loc>
+		<lastmod>2013-05-27T17:03:35+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 433: Comments: 0 of 6 = 0 points -->
+	<url>
+		<loc>http://www.cnhacker.org/posts/433.html</loc>
+		<lastmod>2013-05-27T16:21:30+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 429: Comments: 0 of 6 = 0 points -->
+	<url>
+		<loc>http://www.cnhacker.org/posts/429.html</loc>
+		<lastmod>2013-05-23T14:56:28+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 423: Comments: 0 of 6 = 0 points -->
+	<url>
+		<loc>http://www.cnhacker.org/posts/423.html</loc>
+		<lastmod>2013-05-21T16:18:37+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 415: Comments: 0 of 6 = 0 points -->
+	<url>
+		<loc>http://www.cnhacker.org/posts/415.html</loc>
+		<lastmod>2013-05-19T13:26:54+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 413: Comments: 0 of 6 = 0 points -->
+	<url>
+		<loc>http://www.cnhacker.org/posts/413.html</loc>
+		<lastmod>2013-05-19T13:19:00+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 408: Comments: 0 of 6 = 0 points -->
+	<url>
+		<loc>http://www.cnhacker.org/posts/408.html</loc>
+		<lastmod>2013-05-18T00:26:34+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 401: Comments: 0 of 6 = 0 points -->
+	<url>
+		<loc>http://www.cnhacker.org/posts/401.html</loc>
+		<lastmod>2013-05-18T00:07:02+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 397: Comments: 0 of 6 = 0 points -->
+	<url>
+		<loc>http://www.cnhacker.org/posts/397.html</loc>
+		<lastmod>2013-05-17T23:36:17+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 394: Comments: 0 of 6 = 0 points -->
+	<url>
+		<loc>http://www.cnhacker.org/posts/394.html</loc>
+		<lastmod>2013-05-17T23:33:21+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 390: Comments: 0 of 6 = 0 points -->
+	<url>
+		<loc>http://www.cnhacker.org/posts/390.html</loc>
+		<lastmod>2013-05-17T23:25:20+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 385: Comments: 0 of 6 = 0 points -->
+	<url>
+		<loc>http://www.cnhacker.org/posts/385.html</loc>
+		<lastmod>2013-05-17T23:15:33+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 382: Comments: 0 of 6 = 0 points -->
+	<url>
+		<loc>http://www.cnhacker.org/posts/382.html</loc>
+		<lastmod>2013-05-17T23:07:45+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 378: Comments: 0 of 6 = 0 points -->
+	<url>
+		<loc>http://www.cnhacker.org/posts/378.html</loc>
+		<lastmod>2013-05-17T22:52:30+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 372: Comments: 0 of 6 = 0 points -->
+	<url>
+		<loc>http://www.cnhacker.org/posts/372.html</loc>
+		<lastmod>2013-05-16T05:20:50+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 364: Comments: 0 of 6 = 0 points -->
+	<url>
+		<loc>http://www.cnhacker.org/posts/364.html</loc>
+		<lastmod>2013-05-14T15:29:05+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 362: Comments: 0 of 6 = 0 points -->
+	<url>
+		<loc>http://www.cnhacker.org/posts/362.html</loc>
+		<lastmod>2013-05-14T15:11:27+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 356: Comments: 0 of 6 = 0 points -->
+	<url>
+		<loc>http://www.cnhacker.org/posts/356.html</loc>
+		<lastmod>2013-05-14T14:35:54+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 313: Comments: 0 of 6 = 0 points -->
+	<url>
+		<loc>http://www.cnhacker.org/posts/313.html</loc>
+		<lastmod>2013-05-13T05:03:07+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 306: Comments: 0 of 6 = 0 points -->
+	<url>
+		<loc>http://www.cnhacker.org/posts/306.html</loc>
+		<lastmod>2013-05-13T00:50:43+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+	<url>
+		<loc>http://www.cnhacker.org/%e5%b7%a5%e5%8d%95</loc>
+		<lastmod>2013-05-12T15:52:23+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+<!-- Debug: Priority report of postID 290: Comments: 0 of 6 = 0 points -->
+	<url>
+		<loc>http://www.cnhacker.org/posts/290.html</loc>
+		<lastmod>2013-05-12T08:00:16+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 288: Comments: 0 of 6 = 0 points -->
+	<url>
+		<loc>http://www.cnhacker.org/posts/288.html</loc>
+		<lastmod>2013-05-12T07:53:28+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 284: Comments: 0 of 6 = 0 points -->
+	<url>
+		<loc>http://www.cnhacker.org/posts/284.html</loc>
+		<lastmod>2013-05-12T03:03:29+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 278: Comments: 0 of 6 = 0 points -->
+	<url>
+		<loc>http://www.cnhacker.org/posts/278.html</loc>
+		<lastmod>2013-05-11T17:10:17+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 227: Comments: 0 of 6 = 0 points -->
+	<url>
+		<loc>http://www.cnhacker.org/posts/227.html</loc>
+		<lastmod>2013-05-07T05:25:20+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 212: Comments: 0 of 6 = 0 points -->
+	<url>
+		<loc>http://www.cnhacker.org/posts/212.html</loc>
+		<lastmod>2013-05-06T13:23:30+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 208: Comments: 0 of 6 = 0 points -->
+	<url>
+		<loc>http://www.cnhacker.org/posts/208.html</loc>
+		<lastmod>2013-05-06T12:03:01+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 200: Comments: 0 of 6 = 0 points -->
+	<url>
+		<loc>http://www.cnhacker.org/posts/200.html</loc>
+		<lastmod>2013-05-06T02:25:28+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 196: Comments: 0 of 6 = 0 points -->
+	<url>
+		<loc>http://www.cnhacker.org/posts/196.html</loc>
+		<lastmod>2013-05-06T01:15:30+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 192: Comments: 0 of 6 = 0 points -->
+	<url>
+		<loc>http://www.cnhacker.org/posts/192.html</loc>
+		<lastmod>2013-05-05T13:08:41+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 188: Comments: 0 of 6 = 0 points -->
+	<url>
+		<loc>http://www.cnhacker.org/posts/188.html</loc>
+		<lastmod>2013-05-03T13:54:00+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 186: Comments: 0 of 6 = 0 points -->
+	<url>
+		<loc>http://www.cnhacker.org/posts/186.html</loc>
+		<lastmod>2013-05-02T13:05:35+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 172: Comments: 0 of 6 = 0 points -->
+	<url>
+		<loc>http://www.cnhacker.org/posts/172.html</loc>
+		<lastmod>2013-05-01T14:54:25+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+	<url>
+		<loc>http://www.cnhacker.org/hacker</loc>
+		<lastmod>2013-05-01T14:14:52+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+	<url>
+		<loc>http://www.cnhacker.org/tougao</loc>
+		<lastmod>2013-05-01T04:55:24+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+<!-- Debug: Priority report of postID 104: Comments: 0 of 6 = 0 points -->
+	<url>
+		<loc>http://www.cnhacker.org/posts/104.html</loc>
+		<lastmod>2013-05-01T03:46:54+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 99: Comments: 0 of 6 = 0 points -->
+	<url>
+		<loc>http://www.cnhacker.org/posts/99.html</loc>
+		<lastmod>2013-05-01T03:41:04+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+	<url>
+		<loc>http://www.cnhacker.org/%e8%b5%9e%e5%8a%a9</loc>
+		<lastmod>2013-04-29T20:45:17+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+<!-- Debug: Priority report of postID 64: Comments: 0 of 6 = 0 points -->
+	<url>
+		<loc>http://www.cnhacker.org/posts/64.html</loc>
+		<lastmod>2013-04-29T12:43:09+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 60: Comments: 0 of 6 = 0 points -->
+	<url>
+		<loc>http://www.cnhacker.org/posts/60.html</loc>
+		<lastmod>2013-04-29T12:36:08+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 37: Comments: 0 of 6 = 0 points -->
+	<url>
+		<loc>http://www.cnhacker.org/posts/37.html</loc>
+		<lastmod>2013-04-27T15:32:21+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: End Postings -->
+<!-- Debug: Start Custom Pages -->
+<!-- Debug: End Custom Pages -->
+<!-- Debug: Start additional URLs -->
+<!-- Debug: End additional URLs -->
+</urlset>

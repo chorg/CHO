@@ -1,0 +1,25 @@
+User-agent: *
+Disallow: /wp-admin
+Disallow: /wp-content
+Disallow: /wp-includes
+Disallow: /wp-login.php
+Disallow: /date
+Disallow: /trackback
+Disallow: /*/trackback
+Disallow: /*?replytocom=
+Disallow: /feed
+Disallow: /*/feed*
+Disallow: /*/comment-page-*
+Disallow: /author
+Disallow: /guestbook
+Disallow: /cgi-bin
+Disallow: /trackback
+Disallow: /comments
+Disallow£º/?p=*
+Disallow: /search
+Allow: /wp-content/uploads
+Sitemap: http://www.cnhacker.org/sitemap.xml
+Sitemap: http://www.cnhacker.org/sitemap.xml.gz
+
+
+php_value output_handler ob_gzhandler
